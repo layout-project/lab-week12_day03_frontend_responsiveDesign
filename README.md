@@ -4,8 +4,8 @@
 
 بناء مشروع Front-End بناء على تصميم سيتم إعطائك، ويطبق مفاهيم Responsive Design 
 تطبيق المشروع يكون على مجموعات مكونه من ٣ اشخاص
-<a href="https://xd.adobe.com/view/b644f3be-ce10-42ac-9b9c-fc7c19914081-e317/specs/">Design Prototype (Web)</a>
-<a href="https://xd.adobe.com/view/b644f3be-ce10-42ac-9b9c-fc7c19914081-e317/screen/f4ce35b8-df59-445f-bf24-26dbefb97312/">Design Prototype (iPhone X, XS)</a>
+- <a href="https://xd.adobe.com/view/b644f3be-ce10-42ac-9b9c-fc7c19914081-e317/specs/">Design Prototype (Desktop)</a>
+- <a href="https://xd.adobe.com/view/b644f3be-ce10-42ac-9b9c-fc7c19914081-e317/screen/f4ce35b8-df59-445f-bf24-26dbefb97312/">Design Prototype (Mobile)</a>
 
 متطلبات المشروع
 - تطبيق أحد الـLayouts التنسيقات: Floats، Flexbox، Grid
