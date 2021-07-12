@@ -1,5 +1,5 @@
 # Lab-week12_day03_frontend_responsiveDesign
-<div style="direction:rtl">
+<div dir="rtl" align="right">
 فكرة المشروع
 
 بناء مشروع Front-End بناء على تصميم سيتم إعطائك، ويطبق مفاهيم Responsive Design 
