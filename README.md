@@ -1,4 +1,4 @@
-# hw-week12_day03_frontend_responsiveDesign
+# Lab-week12_day03_frontend_responsiveDesign
 <div style="direction:rtl">
 فكرة المشروع
 
