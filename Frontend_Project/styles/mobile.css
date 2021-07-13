@@ -1,5 +1,47 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
+.container {
+    display: block;
+}
+.scrollmenu {
+    overflow:auto;
+    white-space: nowrap;
+    height: 60vh;
+  }
+  
+  
+.scrollmenu a:hover {
+    background-color: #777;
+  }
+
+  .imgSize {
+    width: 100vw;
+    height: 60vh;
+    border-style: 1px solid;
+    border-radius: 50px;
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.leftbox{
+   
+    background-image: url("../assets/box2.PNG");
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.middlebox {
+    border-style: 1px solid;
+    border-radius: 50px;
+    background-image: url("../assets/box1.PNG");
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.rightbox {
+    background-image: url("../assets/box3.PNG");
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 @media screen, handheld{
     *{
         margin: 0px;
