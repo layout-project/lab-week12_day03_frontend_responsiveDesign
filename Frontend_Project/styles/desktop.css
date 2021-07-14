@@ -69,7 +69,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        background: palevioletred 0% 0% no-repeat padding-box;
+        background: #0F1216 0% 0% no-repeat padding-box;
         box-shadow: 0px 5px 40px #00000029;
         opacity: 1;
         height:850px;
@@ -172,9 +172,10 @@
     
     #InnerWhiteDiv{
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
+        flex-flow: row wrap;
         align-items: center;
-        width: 322px;
+        width: 1300px;
         height: 464px;
         background: #FAFCFF 0% 0% no-repeat padding-box;
         box-shadow: 0px 3px 70px #00000014;
@@ -183,23 +184,25 @@
     
     #CompImg{
         margin-top: 40px;
-        width: 251px;
-        height: 214px;
+        margin-left: 100px; 
+        width: 350px;
+        height: 300px;
     }
     
     h1{
         margin-top: 12px;
+        margin-left: 180px;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        font-size: 22px;
+        font-size: 43px;
     }
     
     #ContentButton{
-        margin-top: 26px;
         width: 233px;
+        margin-left: 750px;
+        margin-top: -300px;
         text-align: center;
         color: white;
         height: 55px;
-        background: #00ADBB 0% 0% no-repeat padding-box;
         box-shadow: 0px 3px 20px #00000029;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         font-size: 16px;
